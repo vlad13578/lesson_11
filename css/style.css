@@ -69,25 +69,6 @@ h1 {
     text-align: center;
 }
 
-.servisec__maintext {
-    color: #5d62b5;
-    font-size: 12px;
-    font-weight: 700;
-    line-height: 24px;
-    letter-spacing: 2.5px;
-    text-transform: uppercase;
-    margin: 0px 0px 33px 0px;
-    min-height: 17px;
-}
-.servisec__maintext::before {
-    content: "";
-    /*display: inline-block;
-	width: 17px;
-	height: 16px;*/
-    padding: 0px 33px 0px 0px;
-    background: url("../img/servisec/mark.svg") 0 50% no-repeat;
-}
-
 .promise {
     font-size: 0;
     margin: 0px auto;
@@ -137,36 +118,6 @@ h1 {
     overflow: hidden;
     padding: 110px 50px;
 }
-
-.title {
-    padding: 0px 0px 76px 0px;
-}
-.title__main-title {
-    color: #5d62b5;
-    font-size: 12px;
-    font-weight: 700;
-    line-height: 24px;
-    letter-spacing: 2.5px;
-    text-transform: uppercase;
-    margin: 0px 0px 33px 0px;
-    min-height: 17px;
-}
-.title__main-title::before {
-    content: "";
-    /*display: inline-block;
-	width: 17px;
-	height: 16px;*/
-    padding: 0px 33px 0px 0px;
-    background: url("../img/servisec/mark.svg") 0 50% no-repeat;
-
-}
-.title__sub-title {
-    color: #000;
-    font-size: 36px;
-    font-weight: 900;
-    line-height: 42px;
-}
-
 .servisec__cards {
     margin: 0px 0px 66px 0px;
 }
@@ -210,7 +161,6 @@ h1 {
     line-height: 24px;
     letter-spacing: 0.15px;
 }
-
 .servisec__link {
     text-align: center;
 }
