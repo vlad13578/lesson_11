@@ -217,7 +217,7 @@ h1 {
     padding: 0 10px;
     margin: 0px auto;
 }
-.impact__maintext {
+.impact__main-text {
     margin: 0px 0px 32px 0px;
     color: #fff;
     font-size: 12px;
@@ -227,12 +227,12 @@ h1 {
     text-transform: uppercase;
     padding: 112px 0px 0px 0px;
 }
-.impact__maintext::before {
+.impact__main-text::before {
     content: "";
     background: url("../img/impact/Mark.svg") 0 50% no-repeat;
     padding: 0px 33px 0px 0px;
 }
-.impactsubtext {
+.impact__sub-text {
     color: #fff;
     font-size: 36px;
     font-weight: 900;
@@ -247,29 +247,28 @@ h1 {
     display: inline-block;
     width: 24%;
 }
-.impact__itemimg {
+.impact__item-img {
     display: inline-block;
 	vertical-align: top;
 	margin: 0px 12px 0px 0px;
 }
-.impact__itemtext {
+.impact__item-text {
     color: #fff;
     font-size: 36px;
     font-weight: 900;
     line-height: 42px;
 	margin: 0px 0px 3px 0px;
 }
-.impact__itemsubtext {
+.impact__item-subtext {
     color: #5d62b5;
     font-weight: 700;
     line-height: 24px;
     letter-spacing: 0.15px;
 }
-.impact__textblock{
+.impact__text-block{
 	display: inline-block;
 }
-
-.impact__botomcontainer{
+.impact__botom-container{
 	display: inline-block;
 }
 .img{
@@ -290,14 +289,14 @@ h1 {
     max-width: 255px;
 }
 
-.choose__maintext {
+.choose__main-text {
     color: #fff;
     font-family: "Helvetica Neue";
     font-size: 22px;
     letter-spacing: -0.275px;
     text-transform: capitalize;
 }
-.choose__maintext::after {
+.choose__main-text::after {
     content: "";
     width: 56px;
     height: 2px;
@@ -306,7 +305,7 @@ h1 {
     margin: 10px 0px 26px 0px;
 }
 
-.choose__subtext {
+.choose__sub-text {
     color: rgba(255, 255, 255, 0.5);
     font-family: "Helvetica Neue";
     font-size: 13px;
